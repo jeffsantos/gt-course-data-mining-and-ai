@@ -19,6 +19,13 @@ BaselineOfGtCourseDataMiningAndAI class >> loadLepiter [
 			self inform: 'Repository not found.' ]
 ]
 
+{ #category : #acccessing }
+BaselineOfGtCourseDataMiningAndAI class >> renameLepiter [
+	LeDatabasesRegistry defaultLogicalDatabase databases 
+		detect: [ :aDatabase | aDatabase databaseName includesSubstring: 'gt-course-data-mining-and-ai' ] 
+		ifFound: [ :aDatabase | aDatabase databaseName: 'Course: Data Mining and AI']
+]
+
 { #category : #baseline }
 BaselineOfGtCourseDataMiningAndAI >> baseline: spec [
 	<baseline>
