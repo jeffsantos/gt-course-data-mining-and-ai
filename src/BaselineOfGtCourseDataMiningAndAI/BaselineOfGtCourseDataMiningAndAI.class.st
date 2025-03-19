@@ -29,7 +29,10 @@ BaselineOfGtCourseDataMiningAndAI class >> renameLepiter [
 { #category : #baseline }
 BaselineOfGtCourseDataMiningAndAI >> baseline: spec [
 	<baseline>
-		^ spec for: #common do: [
-			spec package: 'GtCourseDataMiningAndAI'
-		]
+	^ spec
+		for: #common
+		do: [ spec
+				package: 'GtCourseDataMiningAndAI';
+				package: 'NeuralNetwork';
+				package: 'NeuralNetwork-Tests' ]
 ]
