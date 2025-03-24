@@ -13,7 +13,45 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-20T06:47:00.095-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-20T06:47:00.102-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "mPVPwSTtDQCUEuYACu143Q=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[Measuring the Precision]]"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -50,7 +88,45 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-20T06:47:22.423-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-20T06:47:22.431-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "+ECjwiTtDQCUgoSgCu143Q=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[Activation Functions]]"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -60,7 +136,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-03-19T14:42:49.678-03:00"
+									"dateAndTimeString" : "2025-03-19T14:42:53.322-03:00"
 								}
 							},
 							"editEmail" : {
@@ -71,7 +147,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-03-19T14:42:51.798-03:00"
+									"dateAndTimeString" : "2025-03-19T14:42:53.331-03:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +157,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Cha"
+							"string" : "[[Chapter 2: The Artificial Neuron]]"
 						}
 					]
 				},

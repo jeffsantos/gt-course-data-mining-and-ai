@@ -34,16 +34,16 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-02-19T15:19:10.696-03:00"
+									"dateAndTimeString" : "2025-03-19T16:30:15.437-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "SGp2huTqDQCCysGvC2PUow=="
 							},
-							"url" : "attachments/5ogn9dfktmrnx2h2nq7rvidvc/perceptron.png",
+							"url" : "attachments/ck8gmuqrrv14yp2vjab6mq0hk/perceptron.png",
 							"caption" : "A Perceptron",
-							"previewHeight" : 186.5
+							"previewHeight" : 298.125
 						},
 						{
 							"__type" : "textSnippet",
@@ -218,7 +218,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-02-19T15:25:36.931-03:00"
+						"dateAndTimeString" : "2025-03-19T16:37:02.557-03:00"
 					}
 				},
 				"uid" : {
@@ -486,14 +486,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-02-19T15:39:33.204-03:00"
+									"dateAndTimeString" : "2025-03-19T16:49:17.712-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "aBDczeTqDQCLrtDZC2PUow=="
 							},
-							"url" : "attachments/9p61pz4r9clg23z8r1dttxjcw/digital-comparator.png",
+							"url" : "attachments/ck8gmuo2as1gaf8su8dwtittk/digital-comparator.png",
 							"caption" : "Digital comparator circuit",
 							"previewHeight" : 300
 						},
@@ -855,7 +855,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-02-20T15:57:41.23-03:00"
+									"dateAndTimeString" : "2025-03-19T16:50:22.514-03:00"
 								}
 							},
 							"uid" : {
@@ -865,7 +865,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "This is the problem of finding the values of weights and bias so the result of the feed becomes 0."
+							"string" : "**This is the problem of finding the values of weights and bias so the result of the feed becomes 0.**"
 						},
 						{
 							"__type" : "textSnippet",
@@ -1109,48 +1109,14 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-03-17T14:28:45.991-03:00"
+												"dateAndTimeString" : "2025-03-19T16:51:02.261-03:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
 											"uidString" : "WD2lpH2zDQCaDfYKCAvvXw=="
 										},
-										"code" : "p weights"
-									},
-									{
-										"__type" : "pharoSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-03-17T14:28:36.258-03:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-03-17T14:28:52.68-03:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "6ATppH2zDQCaEZzfCAvvXw=="
-										},
-										"code" : "p bias"
+										"code" : "p"
 									}
 								]
 							},
